@@ -41,7 +41,7 @@ Diabetes is a critical health issue worldwide, and early detection is key to pre
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/glucosocope-ai.git
+   git clone https://github.com/Kashayap2002/GlucoScope-AI.git
 2. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
